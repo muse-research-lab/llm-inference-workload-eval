@@ -80,7 +80,11 @@ To prepare the datasets, follow the instructions of the [README](datasets/README
 
 ## Experiments
 
-TODO
+Figure 2:
+```
+bash experiments/online-643.sh
+bash experiments/offline-643.sh
+```
 
 ## Analysis
 
