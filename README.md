@@ -3,7 +3,7 @@
 
 This repository contains all the code used for the experimental analysis of our paper:
 
-[The Importance of Workload Choice in Evaluating LLM Inference Systems](https://kon-pap.github.io/docs/2024_EuroMLSys_Paper.pdf).
+[The Importance of Workload Choice in Evaluating LLM Inference Systems](https://doi.org/10.1145/3642970.3655823).
 
 This paper presents an extensive experimental evaluation that aims to capture the impact of the workload used for evaluation and quantify the benefit derived from higher memory availability.
 Our analysis shows that LLMs can achieve 3 $\times$ higher throughput for text generation and question-answering use cases compared to text summarization and conversational ones.
