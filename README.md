@@ -95,20 +95,21 @@ The produced figures will be stored under the `figures` directory.
 ## Citation
 
 ```bibtex
-@inproceedings{,
-    author = {Papaioannou, Konstantinos and Doudali, Thaleia Dimitra},
-    title = {The Importance of Workload Choice in Evaluating LLM Inference Systems},
-    year = {2024},
-    isbn = {},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {},
-    doi = {},
-    booktitle = {Proceedings of the 4th Workshop on Machine Learning and Systems},
-    pages = {},
-    numpages = {},
-    location = {Athens, Greece},
-    series = {EuroMLSys '24}
+@inproceedings{10.1145/3642970.3655823,
+author = {Papaioannou, Konstantinos and Doudali, Thaleia Dimitra},
+title = {The Importance of Workload Choice in Evaluating LLM Inference Systems},
+year = {2024},
+isbn = {9798400705410},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3642970.3655823},
+doi = {10.1145/3642970.3655823},
+booktitle = {Proceedings of the 4th Workshop on Machine Learning and Systems},
+pages = {39–46},
+numpages = {8},
+keywords = {Inference, KV Cache, Large Language Models, Machine Learning},
+location = {Athens, Greece},
+series = {EuroMLSys '24}
 }
 ```
 
